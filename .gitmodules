@@ -1,0 +1,3 @@
+[submodule "linux-vm-tools"]
+	path = linux-vm-tools
+	url = https://github.com/yzhang0231/linux-vm-tools.git
